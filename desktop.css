@@ -1,0 +1,71 @@
+body {
+  font-size: 100%;
+  font-family: "Lato", sans-serif;
+  /*background-color: #f9f9f9;*/
+}
+
+#greeting {
+  color: inherit;
+  text-align: center;
+  font-family: inherit;
+  /*position: absolute;
+  top: center;
+  left: center;
+  */
+  font-size: 3.5em;
+}
+
+#section{
+  background-color: blue;
+
+
+}
+
+#time{
+  font-family: inherit;
+  text-align: center;
+  font-size: 4em;
+  padding: inherit;
+}
+
+#weather{
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
+
+  #departure {
+      color: inherit;
+      float: left;
+      width: 175px;
+      /*border: 1px solid black;*/
+
+  }
+
+  #expected{
+    color: inherit;
+    float: left;
+    width: 175px;
+    /*border: 1px solid black;*/
+  }
+
+  #destination {
+    color: inherit;
+    float: left;
+    width: 425px;
+    /*border: 1px solid black;*/
+  }
+
+  /*.platform{
+    color: inherit;
+    display: inline-block;
+    width: 165px;
+    /*border: 1px solid black;
+  }
+
+  .operator{
+    color: inherit;
+    display: inline-block;
+    width: 320px;
+    border: 1px solid black;*/
